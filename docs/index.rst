@@ -15,24 +15,7 @@ and extensible, to allow the system to scale from simple trading
 strategies on a single CPU, to complex investment strategies run on a
 distribution of HPC machines.
 
-Under the hood, the framework uses many of the APIs from existing
-machine learning libraries to maintain high quality data pipelines and
-learning models. One of the main goals of TensorTrade is to enable fast
-experimentation with algorithmic trading strategies, by leveraging the
-existing tools and pipelines provided by ``numpy``, ``pandas``, ``gym``,
-``keras``, and ``tensorflow``.
 
-Every piece of the framework is split up into re-usable components,
-allowing you to take advantage of the general use components built by
-the community, while keeping your proprietary features private. The aim
-is to simplify the process of testing and deploying robust trading
-agents using deep reinforcement learning, to allow you and I to focus on
-creating profitable strategies.
-
-*The goal of this framework is to enable fast experimentation, while
-maintaining production-quality data pipelines.*
-
-Feel free to also walk through the `Medium tutorial`_.
 
 Guiding principles
 ------------------
@@ -74,7 +57,12 @@ Welcome to AI Trading's documentation!
 
    source/overview.md
    source/installation.md
-   source/trade_with_sample_data.md
+   source/drl_models.md
+   source/sample_data.md
+   source/cryptocurrency_data.md
+   source/forex_data.md
+   source/stock_data.md
+   source/reference.md
 
 Indices and tables
 ==================

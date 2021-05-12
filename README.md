@@ -121,3 +121,15 @@ https://medium.com/aureliantactics/ppo-hyperparameters-and-ranges-6fc2d29bccbe
 
 Train a Deep Q Network with TF-Agents
 https://www.tensorflow.org/agents/tutorials/1_dqn_tutorial
+
+
+Deep Reinforcement Learning for Automated Stock Trading
+https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02
+
+【莫烦Python】强化学习 Reinforcement Learning
+
+https://www.bilibili.com/video/BV13W411Y75P?from=search&seid=13844167983297755236
+
+【李宏毅】2020 最新课程 (完整版) 强化学习
+
+https://www.bilibili.com/video/BV1UE411G78S?from=search&seid=13844167983297755236

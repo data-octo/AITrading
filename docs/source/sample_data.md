@@ -1,5 +1,8 @@
 # Sample Data
 
+
+## Generate simulated data
+
 ```
 import numpy as np
 import pandas as pd
