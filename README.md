@@ -9,7 +9,6 @@ https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientist
 Install virtual environment in current project folder
 - conda create --prefix ./env python=3.8
 - conda activate ./env
-- conda activate /Users/yuan/Projects/github/ai-trading/env
 - conda remove --prefix /path/to/conda-env/ --all
   
 Install virutal environmenbt in default home folder
