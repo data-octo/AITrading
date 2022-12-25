@@ -1,6 +1,16 @@
 # AITrading
 Reinforcement Learning for trading cryptocurrencies, stocks and forex 
 
+Conclusion: 
+- Works well in patterned data 
+![picture 1](images/a6f8297a0c854d979fd2c0d6d1d7b06f098bc37140f8ea486acd91346ba4f990.png)  
+
+- Works all right in less volatile data
+![picture 2](images/bab82d2a0ac1942d7d8e018bc4604611b3f6b7f695669c4363a540e83859d64a.png)  
+
+- Doesn work in volatile data 
+![picture 3](images/f80f598bdcbe969f758501393b8ab6d55b2175ef4abdd1841ea4692c3139a415.png)  
+
 
 ## Python Virtual Environment
 ### Using Conda
